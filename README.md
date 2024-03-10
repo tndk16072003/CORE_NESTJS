@@ -46,7 +46,7 @@ $ npm run start:prod
 ```
 
 <p align="center">
-  <img src="./images/Screenshot 2024-03-10 090150.png" width="200" alt="Prettier Bug" />
+  <img src="./images/Screenshot 2024-03-10 090150.png" width="500" alt="Prettier Bug" />
 </p>
 
 ## Fix prettier bug

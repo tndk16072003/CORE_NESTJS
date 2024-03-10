@@ -45,6 +45,17 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+<p align="center">
+  <img src="./images/Screenshot 2024-03-10 090150.png" width="200" alt="Prettier Bug" />
+</p>
+
+## Fix prettier bug
+
+```bash
+# development
+$ npm run lint --fix
+```
+
 ## Test
 
 ```bash
